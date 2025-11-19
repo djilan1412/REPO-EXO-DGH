@@ -31,5 +31,4 @@ $texte = "Il fait beau";
 if (my_str_contains($texte, "beau")) {
     echo "Trouvé !";
 }
-
 ?>
